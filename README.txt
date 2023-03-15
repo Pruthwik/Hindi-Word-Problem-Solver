@@ -7,6 +7,9 @@ Question is: सोहन ने 7.423 की.ग्रा. चावल तथ�
 Equation is: x = + 7.423 6.129
 Solution is: x = 13.552
 
+The model can be downloaded from the below link:
+https://drive.google.com/file/d/1FrZx5W94vSW9Y8_8J2CiXtJ0dUiSCVFj/view?usp=sharing
+
 How to cite this work:
 This code is developed as a part of the paper accepted in the LREC-2022 conference. The paper can be cited as:
 @InProceedings{sharma-mishra-sharma:2022:LREC,
